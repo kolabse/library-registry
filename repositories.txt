@@ -1,4 +1,9 @@
+https://github.com/Bexin3/Snowduino
+https://github.com/Aerobotics-Global/Orbo
+https://gitlab.com/dcoded.nl/non-blocking-analog-led-driver
+https://github.com/Gfy63/ParseCommands.git
 https://github.com/uldara1/Modbus.git
+https://github.com/Bexin3/Speeduino
 https://github.com/bolderflight/hg4930
 https://github.com/RCmags/basicCalculus
 https://github.com/EmberGL-org/EmberGL.git
@@ -112,6 +117,7 @@ https://github.com/arbotics-llc/databot_ESP32
 https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
+https://github.com/SF433/ILIB
 https://github.com/Narwhalsss360/NTimer
 https://github.com/Narwhalsss360/NEvents
 https://github.com/Narwhalsss360/NDefs
@@ -1739,6 +1745,7 @@ https://github.com/finson-release/Luni
 https://github.com/fire0shadow/SevSegSPI
 https://github.com/fire1/PulseCom
 https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library
+https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library
 https://github.com/firmata/arduino
 https://github.com/firmata/ConfigurableFirmata
 https://github.com/FirstBuild/Relay
@@ -4665,6 +4672,7 @@ https://github.com/zoubworldArduino/ZSharpIR
 https://github.com/ZulNs/LCD_HD44780
 https://github.com/ZulNs/MultitapKeypad
 https://github.com/ZulNs/STM32F1_RTC
+https://github.com/ZulNs/TonePlayer
 https://github.com/Zuntara/Arduino.AdagioPro
 https://github.com/Zwer2k/WeatherStationDataRx
 https://gitlab.com/airbornemint/arduino-protothreads
@@ -5519,3 +5527,17 @@ https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_W6100
 https://github.com/IoT-ThingsCloud/thingscloud-esp-sdk
 https://github.com/berrak/SensorWLED
+https://github.com/mimuz/mimuz-ch55x
+https://github.com/khoih-prog/AsyncESP32_W6100_Manager
+https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager
+https://github.com/khoih-prog/ESP32_SC_W6100_Manager
+https://github.com/khoih-prog/ESP32_W6100_Manager
+https://github.com/lualtek/cubecell-device-lib
+https://github.com/weedmanu/Song
+https://github.com/TrebledJ/Serial-Tuning
+https://github.com/arduino-libraries/Arduino_ESP32_OTA
+https://github.com/stoneroweast/HoldButton
+https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
+https://github.com/Naguissa/uUnixDate
+https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
+https://github.com/khoih-prog/ContinuousStepper_Generic
